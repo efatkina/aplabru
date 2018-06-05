@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2e98c37a-033b-483c-9aaa-cb14d8c40a76">
+  <producedTypes>
+    <managerType typeId="f9cd146c-7aee-466c-9c2c-aba60dac9941" valueTypeId="f0e96c5c-6b81-40ab-aed1-47a7d9827d7d"/>
+    <valueManagerType typeId="12e8c364-e12a-4106-a457-b7686a1aca37" valueTypeId="0edfb436-6555-4c20-a3fe-3c0868dbfb14"/>
+  </producedTypes>
+  <name>МК_ИспользоватьДополнительнуюФункциональность</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать дополнительную функциональность</value>
+  </synonym>
+  <comment></comment>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <mask></mask>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <choiceHistoryOnInput>DontUse</choiceHistoryOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

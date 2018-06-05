@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="9b05fe52-540c-4f62-bed4-de3514b6e397">
+  <name>aplab_Обслуживание</name>
+  <synonym>
+    <key>ru</key>
+    <value>ap-lab.ru - Обслуживание</value>
+  </synonym>
+  <comment></comment>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c96bdbca-6edc-428e-ade4-17f624075710"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="734a5f92-f239-48cc-a780-050c8dbc3fad"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="5a1010cb-f2e5-429f-b185-8842257b1eb6"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="42ad5c20-9551-451b-8f03-76e66ff74d9f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f4356bbc-f367-4e82-b088-ae6aefa7356f"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d6d5092b-5077-4e39-851f-49f2f6cd1d28"/>
+  <namePrefix>РО_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Проекты автоматизации бизнеса</vendor>
+  <version>1.0</version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.12</compatibilityMode>
+  <languages uuid="2addef3a-2177-41ca-8afd-e165d3abd391">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.РО_Обслуживание</subsystems>
+  <commonPictures>CommonPicture.РО_ЛоготипПодсистемаМалый</commonPictures>
+  <commonPictures>CommonPicture.РО_ЛоготипПодсистемаОсновной</commonPictures>
+  <commonPictures>CommonPicture.РО_ЛоготипОсновной</commonPictures>
+  <commonPictures>CommonPicture.РО_ЛоготипМалый</commonPictures>
+  <reports>Report.РО_ШАБЛОН_ВнешнийОтчет</reports>
+  <dataProcessors>DataProcessor.РО_Обслуживание</dataProcessors>
+  <dataProcessors>DataProcessor.РО_ШАБЛОН_ВнешняяОбработка</dataProcessors>
+  <dataProcessors>DataProcessor.РО_КонсольЗапросов</dataProcessors>
+</mdclass:Configuration>

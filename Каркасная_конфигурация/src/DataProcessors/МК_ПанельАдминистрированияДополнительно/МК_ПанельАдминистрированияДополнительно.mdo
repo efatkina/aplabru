@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0a7e1854-c97d-4f05-ba6b-845860bb052a">
+  <producedTypes>
+    <objectType typeId="601e4224-9a62-471a-9657-b3fce083faed" valueTypeId="41efb90b-17cc-4d47-8d8b-a32aee0c8186"/>
+    <managerType typeId="bc63d658-4a06-4975-bb22-688d6088b2de" valueTypeId="4c564a2e-6215-4ea9-84a8-91b404c9b2e8"/>
+  </producedTypes>
+  <name>МК_ПанельАдминистрированияДополнительно</name>
+  <synonym>
+    <key>ru</key>
+    <value>Панель дополнительных настроек (МК)</value>
+  </synonym>
+  <comment></comment>
+  <defaultForm>DataProcessor.МК_ПанельАдминистрированияДополнительно.Form.Форма</defaultForm>
+  <forms uuid="bc9dde4a-426f-409d-95ac-9294c92cb96f">
+    <name>Информация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="67715af4-0c98-4c21-b7f1-43d6be39daa6">
+    <name>Настройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="0ba56128-6316-4a53-8d0d-7d514b64bfc6">
+    <name>ПерсональныеНастройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Персональные настройки</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="7543a4f4-7a47-482b-b84f-0ab4aead69de">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="59dbb556-db98-40db-936e-3acb7e52b8b7">
+    <name>Информация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация</value>
+    </synonym>
+    <comment></comment>
+    <group>NavigationPanelImportant</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+  <commands uuid="3d61a1cb-b7ee-49ff-93c0-6b114ac86e6a">
+    <name>Настройки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Настройки</value>
+    </synonym>
+    <comment></comment>
+    <group>NavigationPanelImportant</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+</mdclass:DataProcessor>

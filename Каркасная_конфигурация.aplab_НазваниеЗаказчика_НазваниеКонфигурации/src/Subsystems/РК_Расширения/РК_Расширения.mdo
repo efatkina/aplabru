@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ae8c1d27-b33d-4310-a60a-8e3723598635">
+  <name>РК_Расширения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расширения</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РК_ЛоготипПодсистемаМалый</picture>
+  </picture>
+  <content>DataProcessor.РК_Расширения</content>
+  <content>2ddf5e3d-fb80-456d-908a-2bf7c7e6880a</content>
+  <content>235915f3-d6ce-4e3a-bec5-7d85610e7044</content>
+  <content>CommonPicture.РК_ЛоготипПодсистемаМалый</content>
+  <content>CommonPicture.РК_ЛоготипПодсистемаОсновной</content>
+  <content>CommonPicture.РК_ЛоготипОсновной</content>
+  <content>CommonPicture.РК_ЛоготипМалый</content>
+  <content>13599e04-8f2a-47ae-98df-5d10edc2e147</content>
+</mdclass:Subsystem>

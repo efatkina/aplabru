@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4c0cb65-2a76-4f6f-bb96-16390e16abee">
+  <name>МК_ИзменениеОписанияДополнительнойФункциональности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Изменение описания дополнительной функциональности (МК)</value>
+  </synonym>
+  <comment></comment>
+</mdclass:Role>

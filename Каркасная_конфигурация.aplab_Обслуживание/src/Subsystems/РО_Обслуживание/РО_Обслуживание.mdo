@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="27e0b243-14a3-4b17-ad4c-a7dad0d3f9b7">
+  <name>РО_Обслуживание</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РО_ЛоготипПодсистемаМалый</picture>
+  </picture>
+  <content>DataProcessor.РО_Обслуживание</content>
+  <content>Report.РО_ШАБЛОН_ВнешнийОтчет</content>
+  <content>DataProcessor.РО_ШАБЛОН_ВнешняяОбработка</content>
+  <content>CommonPicture.РО_ЛоготипПодсистемаМалый</content>
+  <content>CommonPicture.РО_ЛоготипПодсистемаОсновной</content>
+  <content>CommonPicture.РО_ЛоготипОсновной</content>
+  <content>CommonPicture.РО_ЛоготипМалый</content>
+  <content>DataProcessor.РО_КонсольЗапросов</content>
+  <content>f1b46aac-e57f-4f2c-b626-615f988d6e97</content>
+</mdclass:Subsystem>

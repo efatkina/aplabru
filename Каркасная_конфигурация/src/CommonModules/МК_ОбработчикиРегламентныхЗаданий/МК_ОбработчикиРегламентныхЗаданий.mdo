@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="afe5d69c-7e6f-4e9f-9596-0720bfff3e14">
+  <name>МК_ОбработчикиРегламентныхЗаданий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработчики регламентных заданий (МК)</value>
+  </synonym>
+  <comment></comment>
+  <server>true</server>
+</mdclass:CommonModule>

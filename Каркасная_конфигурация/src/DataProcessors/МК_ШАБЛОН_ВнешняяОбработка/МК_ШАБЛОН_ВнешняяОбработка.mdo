@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb0ab010-07e5-4bf8-8dce-5950b769ffa2">
+  <producedTypes>
+    <objectType typeId="046a731e-d106-4231-bab5-4d2572d9af76" valueTypeId="d0c31c8b-5c61-4780-bfed-f2cb1e374f00"/>
+    <managerType typeId="7d9761e9-0f63-45f2-b001-67e183deec4f" valueTypeId="96006456-4a80-43b5-bbdf-d034028829c2"/>
+  </producedTypes>
+  <name>МК_ШАБЛОН_ВнешняяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Шаблон внешней обработки (ap-lab.ru)</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.МК_ШАБЛОН_ВнешняяОбработка.Form.Форма</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="6b0116a4-cbb4-4413-ba7d-fca9d531e5df">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="f18dd7d9-92b9-404c-bd65-944b290d6710">
+    <name>ЛоготипВнешняяОбработкаМалый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Логотип внешняя обработка малый</value>
+    </synonym>
+    <comment></comment>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="6c7c1a65-c5bc-46e9-9eee-607cfc8dd7f2">
+    <name>ЛоготипВнешняяОбработкаОсновной</name>
+    <synonym>
+      <key>ru</key>
+      <value>Логотип внешняя обработка основной</value>
+    </synonym>
+    <comment></comment>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:DataProcessor>

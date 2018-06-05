@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7e3c327a-049c-41a6-83ed-8e8971e3bcbb">
+  <name>МК_Дополнительно</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дополнительно</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.МК_ЛоготипПодсистемаМалый</picture>
+  </picture>
+  <content>CommonPicture.МК_ЛоготипПодсистемаОсновной</content>
+  <content>Role.МК_ИзменениеНастроек</content>
+  <content>Role.МК_ИзменениеПерсональныхНастроек</content>
+  <content>CommonModule.МК_ОбработчикиПодписокНаСобытия</content>
+  <content>CommonModule.МК_ОбработчикиРегламентныхЗаданий</content>
+  <content>CommonModule.МК_Дополнительно</content>
+  <content>CommonModule.МК_ДополнительноВызовСервера</content>
+  <content>CommonModule.МК_ДополнительноКлиент</content>
+  <content>CommonModule.МК_ДополнительноКлиентСервер</content>
+  <content>CommonModule.МК_ДополнительноВызовСервераПовтИсп</content>
+  <content>Role.МК_ЧтениеНастроек</content>
+  <content>DataProcessor.МК_ПанельАдминистрированияДополнительно</content>
+  <content>Constant.МК_ИспользоватьДополнительнуюФункциональность</content>
+  <content>Role.МК_ЧтениеИнформации</content>
+  <content>CommonPicture.МК_ЛоготипОсновной</content>
+  <content>CommonPicture.МК_ЛоготипМалый</content>
+  <content>Constant.МК_ОписаниеДополнительнойФункциональности</content>
+  <content>Role.МК_ИзменениеОписанияДополнительнойФункциональности</content>
+  <content>CommonPicture.МК_ЛоготипПодсистемаМалый</content>
+  <content>DataProcessor.МК_ШАБЛОН_ВнешняяОбработка</content>
+  <content>Report.МК_ШАБЛОН_ВнешнийОтчет</content>
+  <content>CommonModule.МК_ОбработчикиФоновыхЗаданий</content>
+  <content>DataProcessor.МК_КонсольЗапросов</content>
+</mdclass:Subsystem>

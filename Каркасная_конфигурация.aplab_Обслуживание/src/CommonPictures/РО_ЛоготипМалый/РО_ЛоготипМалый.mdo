@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d18c771f-bf8b-40a1-bc54-8c9ca0b4dd68">
+  <name>РО_ЛоготипМалый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Логотип малый</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

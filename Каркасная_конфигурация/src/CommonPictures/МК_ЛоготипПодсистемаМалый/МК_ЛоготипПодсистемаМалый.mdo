@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8354cbf8-c940-4240-ad3f-8ed89b7c183b">
+  <name>МК_ЛоготипПодсистемаМалый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Логотип подсистема малый (МК)</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>

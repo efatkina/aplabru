@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b1d0d393-e58c-4125-9f19-939cffa83ddd">
+  <producedTypes>
+    <objectType typeId="e6264da6-6a13-4e40-94a7-0bcdfb7d5236" valueTypeId="fea56449-eb38-4c8a-bfb9-da91a15de17f"/>
+    <managerType typeId="c988c1de-4807-4c7e-8518-6eb185d8c082" valueTypeId="3a93bce0-c860-4ea4-8372-f76665f9fe80"/>
+  </producedTypes>
+  <name>РО_Обслуживание</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.РО_Обслуживание.Form.Форма</defaultForm>
+  <forms uuid="3c666b15-ada8-4373-90e2-64cd7246a001">
+    <name>Информация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="32bd1a0a-ebe8-44e3-b771-5f707ec8aeef">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="6d89822f-1714-453a-99e5-c792cf0213db">
+    <name>Информация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Информация</value>
+    </synonym>
+    <comment></comment>
+    <group>NavigationPanelImportant</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+    <shortcut></shortcut>
+  </commands>
+</mdclass:DataProcessor>

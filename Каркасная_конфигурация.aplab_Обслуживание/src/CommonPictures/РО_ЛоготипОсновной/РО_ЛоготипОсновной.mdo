@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="79d9a55d-c5d7-407a-a8d8-5e788c161292">
+  <name>РО_ЛоготипОсновной</name>
+  <synonym>
+    <key>ru</key>
+    <value>Логотип основной</value>
+  </synonym>
+  <comment></comment>
+</mdclass:CommonPicture>
