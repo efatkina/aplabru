@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9c7e00e1-4af6-4295-9dae-3f39e873a14b">
+  <name>КаркаснаяКонфигурация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Каркасная конфигурация</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="78e42440-3a06-4ce9-8dec-62433ad9f689"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="dbb5de4c-02f8-482d-956c-f0e0503ae410"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="66657130-d9d8-4e1d-9bf9-a6e590af6091"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fee01e42-9a75-46f5-bc22-f7ba75db030d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="233c9108-fbcb-4c8d-b57f-de2683b73274"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="5b228e9d-95ac-4c49-b3f6-ec26aa87b8fe"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <mainSectionPicture/>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.12</compatibilityMode>
+  <languages uuid="47f72c5d-0011-40be-bf4e-cd36ea976e41">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.МК_Дополнительно</subsystems>
+  <commonPictures>CommonPicture.МК_ЛоготипПодсистемаМалый</commonPictures>
+  <commonPictures>CommonPicture.МК_ЛоготипПодсистемаОсновной</commonPictures>
+  <commonPictures>CommonPicture.МК_ЛоготипОсновной</commonPictures>
+  <commonPictures>CommonPicture.МК_ЛоготипМалый</commonPictures>
+  <roles>Role.МК_ЧтениеИнформации</roles>
+  <roles>Role.МК_ЧтениеНастроек</roles>
+  <roles>Role.МК_ИзменениеНастроек</roles>
+  <roles>Role.МК_ИзменениеПерсональныхНастроек</roles>
+  <roles>Role.МК_ИзменениеОписанияДополнительнойФункциональности</roles>
+  <roles>Role.ПолныеПрава</roles>
+  <commonModules>CommonModule.МК_ОбработчикиПодписокНаСобытия</commonModules>
+  <commonModules>CommonModule.МК_ОбработчикиРегламентныхЗаданий</commonModules>
+  <commonModules>CommonModule.МК_ОбработчикиФоновыхЗаданий</commonModules>
+  <commonModules>CommonModule.МК_Дополнительно</commonModules>
+  <commonModules>CommonModule.МК_ДополнительноВызовСервера</commonModules>
+  <commonModules>CommonModule.МК_ДополнительноКлиент</commonModules>
+  <commonModules>CommonModule.МК_ДополнительноКлиентСервер</commonModules>
+  <commonModules>CommonModule.МК_ДополнительноВызовСервераПовтИсп</commonModules>
+  <constants>Constant.МК_ОписаниеДополнительнойФункциональности</constants>
+  <constants>Constant.МК_ИспользоватьДополнительнуюФункциональность</constants>
+  <reports>Report.МК_ШАБЛОН_ВнешнийОтчет</reports>
+  <dataProcessors>DataProcessor.МК_ПанельАдминистрированияДополнительно</dataProcessors>
+  <dataProcessors>DataProcessor.МК_ШАБЛОН_ВнешняяОбработка</dataProcessors>
+  <dataProcessors>DataProcessor.МК_КонсольЗапросов</dataProcessors>
+</mdclass:Configuration>
