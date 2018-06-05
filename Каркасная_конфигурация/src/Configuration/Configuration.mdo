@@ -58,6 +58,7 @@
   <commonModules>CommonModule.МК_ДополнительноВызовСервераПовтИсп</commonModules>
   <constants>Constant.МК_ОписаниеДополнительнойФункциональности</constants>
   <constants>Constant.МК_ИспользоватьДополнительнуюФункциональность</constants>
+  <catalogs>Catalog.Тест1</catalogs>
   <reports>Report.МК_ШАБЛОН_ВнешнийОтчет</reports>
   <dataProcessors>DataProcessor.МК_ПанельАдминистрированияДополнительно</dataProcessors>
   <dataProcessors>DataProcessor.МК_ШАБЛОН_ВнешняяОбработка</dataProcessors>
